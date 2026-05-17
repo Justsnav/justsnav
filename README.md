@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on AarogyaAI<br>👯 I’m looking to collaborate on React-based web apps<br>🤝 I’m looking for help in backend development<br>🌱 I’m currently learning backend APIs<br>💬 Ask me about React, Tailwind CSS, and UI design<br>⚡ Fun fact I'm a competitive sleeper
+🔭 I’m currently working on AarogyaAI<br>👯 I’m looking to collaborate on Full-Stack web apps<br>🤝 I’m looking for help in backend development<br>🌱 I’m currently learning Databases<br>💬 Ask me about React, Backend and Dsa<br>⚡ Fun fact I'm a competitive sleeper
 
 
 ## 🌐 Socials:

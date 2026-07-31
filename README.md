@@ -65,8 +65,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=justsnav&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>

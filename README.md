@@ -54,14 +54,16 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=justsnav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=justsnav&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <!-- Contribution Heatmap -->
+  <img src="https://ghchart.rshah.org/007acc/justsnav" alt="Abhinav's GitHub Contribution Heatmap" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Streak Counter -->
   <img src="https://streak-stats.demolab.com/?user=justsnav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
+

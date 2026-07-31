@@ -54,21 +54,19 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=justsnav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsnav&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=justsnav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=justsnav&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justsnav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=justsnav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <!-- Profile Visitor Counter -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=justsnav&icon=5&color=1" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=justsnav&color=007acc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

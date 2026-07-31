@@ -45,20 +45,15 @@
 
 ### **Frameworks, Libraries & Databases**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <!-- Contribution Heatmap -->
-  <img src="https://ghchart.rshah.org/007acc/justsnav" alt="Abhinav's GitHub Contribution Heatmap" width="100%" />
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Streak Counter -->
